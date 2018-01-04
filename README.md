@@ -21,3 +21,7 @@ Open a terminal in your environment and:
 conda install matplotlib pandas numpy notebook
 pip install pycwt
 ```
+
+## References
+
+https://judithcurry.com/2017/12/02/nature-unbound-vi-centennial-to-millennial-solar-cycles/
